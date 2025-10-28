@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="Redis_Cache_Demo.DistributedCaching/Redis_Demo.DistributedCaching.csproj" />
   <Project Path="Redis_Cache_Demo.InMemoryCache/Redis_Demo.InMemoryCache.csproj" />
+  <Project Path="Redis_Demo.PubSub.SubscriberExample/Redis_Demo.PubSub.SubscriberExample.csproj" Id="8763f2d4-e470-4fcc-8319-04e9342c6c4b" />
+  <Project Path="Redis_Demo.PubSub/Redis_Demo.PubSub.PublisherExample.csproj" Id="c14e1fe1-0d2f-4bf1-b59e-9c26a5c2d86f" />
 </Solution>
