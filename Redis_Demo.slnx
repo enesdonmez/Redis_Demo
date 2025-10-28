@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Redis_Cache_Demo.DistributedCaching/Redis_Demo.DistributedCaching.csproj" />
+  <Project Path="Redis_Cache_Demo.InMemoryCache/Redis_Demo.InMemoryCache.csproj" />
+</Solution>
